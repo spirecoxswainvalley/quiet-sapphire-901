@@ -136,4 +136,4 @@ Use the green button in the Quick Start section above.
 | **License** | Shared under the MIT License |
 | **Download** | the button in the Quick Start section |
 
-*Updated 2026-10-09 · Shared under the MIT License*
+*Updated 2026-10-10 · Shared under the MIT License*
